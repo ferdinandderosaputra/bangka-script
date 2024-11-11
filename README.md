@@ -1,7 +1,8 @@
 
 # Bangka Script
 
-Bangka Script Di Rancang Karena Adanya Ketertarikan Bagaimana Di Buatnya Jaksel Language, Dari Ketertarikan Tersebut Saya Mengembangkan Dengan Yaitu Bangka Language Bisa Di Bilang Sih Script
+Bangka Script Di Rancang Karena Adanya Ketertarikan Bagaimana Di Buatnya Jaksel Language, Dari Ketertarikan Tersebut Saya Mengembangkan Bahasa Language Dengan 
+ Nama Yaitu Bangka Language Bisa Di Bilang Sih Script
 
 Saya Harap kalian dapat memberikan start dan bantu mengshare Bangka Script
 
