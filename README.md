@@ -54,16 +54,16 @@ tampilken("Hasil penjumlahan: " + total);
 ```
 ### Memeriksa Bilangan Genap Atau Ganjil
 ```
-fungsi cekGenapGanjil(angka) {
-    jika angka % 2 == 0 {
-        cetak angka + " adalah bilangan genap."
-    } lain {
-        cetak angka + " adalah bilangan ganjil."
+fungsi cekGanjilGenap(angka) {
+    kalok (angka % 2 === 0) {
+        tampilken(angka + " adalah angka genap.");
+    } laen {
+        tampilken(angka + " adalah angka ganjil.");
     }
 }
 
-cekGenapGanjil(4)
-cekGenapGanjil(7)
+variabel angkaInput = 7;
+cekGanjilGenap(angkaInput);
 ```
 
 ### List-List Command Bangka Script
