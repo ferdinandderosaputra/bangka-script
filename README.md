@@ -6,6 +6,8 @@ Bangka Script Di Rancang Karena Adanya Ketertarikan Bagaimana Di Buatnya Jaksel 
 
 Saya Harap kalian dapat memberikan start dan bantu mengshare Bangka Script
 
+(separuh dari syntax bahasa ini masuh menggunakan bahasa indonesia)
+
 ## Fitur Utama
 
 - **Sintaks Sederhana**: Menggunakan kata kunci dalam bahasa Bangka yang mudah dipahami.
