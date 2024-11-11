@@ -1,0 +1,24 @@
+{
+  "name": "bangka-language",
+  "version": "1.0.0",
+  "main": "bangka.js",
+  "scripts": {
+    "test": "echo \"Error: tidak ada test e seperadik\" && exit 1"
+  },
+  "bin": {
+    "bangka": "bangka.js"
+  },
+  "keywords": [],
+  "author": "Ferdinand Dero Saputra",
+  "license": "MIT",
+  "description": "Bahasa Bangka-Script Sederhana Yang Di Bangun Dengan Node Js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinandderosaputra/bangka-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ferdinandderosaputra/bangka-script/issues"
+  },
+  "homepage": "https://github.com/ferdinandderosaputra/bangka-script#readme",
+  "devDependencies": {}
+}
