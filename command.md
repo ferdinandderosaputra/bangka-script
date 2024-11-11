@@ -1,4 +1,4 @@
-'''
+```'''
 | Bahasa Bangka Language | JavaScript |
 |command commmand bangka langauge |
 |--------------|------------|
@@ -135,4 +135,4 @@
 | tangkepFetch | .then |
 | tangkepErrorFetch | .catch |
 | akherFetch | .finally |
-'''
+'''```
