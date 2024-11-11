@@ -42,12 +42,15 @@ bangka example.bangka
 ## Contoh Script
 ### Penjumlahan 2 Angka
 ```
-fungsi jumlah(a, b) {
-    kembalikan a + b
+fungsi tambah(angka1, angka2) {
+    variabel hasil = angka1 + angka2;
+    balek hasil;
 }
 
-var hasil = jumlah(5, 10)
-cetak "Hasil penjumlahan 5 dan 10 adalah: " + hasil
+variabel angkaA = 10;
+variabel angkaB = 5;
+variabel total = tambah(angkaA, angkaB);
+tampilken("Hasil penjumlahan: " + total);
 ```
 ### Memeriksa Bilangan Genap Atau Ganjil
 ```
