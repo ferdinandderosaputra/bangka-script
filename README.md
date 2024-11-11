@@ -6,8 +6,6 @@ Bangka Script Di Rancang Karena Adanya Ketertarikan Bagaimana Di Buatnya Jaksel 
 
 Saya Harap kalian dapat memberikan start dan bantu mengshare Bangka Script
 
-(separuh dari syntax bahasa ini masuh menggunakan bahasa indonesia)
-
 ## Fitur Utama
 
 - **Sintaks Sederhana**: Menggunakan kata kunci dalam bahasa Bangka yang mudah dipahami.
@@ -74,5 +72,3 @@ Untuk Anda Yang Penasaran Dengan List List Command Bangka-Script Dan Ingin Lebih
 ### Disclaimer
 
 Project Ini Adalah Project Pembelajaran Saya Di Mana Saya Berusaha Belajar Membuat Languange Seperti Jaksel Dan Project Ini Juga Project HaveFun Dan Untuk Mengisi Waktu Luang Saya Anda Juga Di Perbolehkan Untuk Mengedit Karena Ini Juga Open Source
-
-##ini juga belum sepenuhnya menggunakan bahasa bangka di sini masih banyak menggunakan bahasa Indonesia 
