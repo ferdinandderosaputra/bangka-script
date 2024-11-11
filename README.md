@@ -64,7 +64,7 @@ cekGenapGanjil(7)
 ### List-List Command Bangka Script
 
 Untuk Anda Yang Penasaran Dengan List List Command Bangka-Script Dan Ingin Lebih Tau Tentang Bangka Script Anda Bisa Mengeceknya Di Bawah
-- [List Command](Command.md)
+- [List Command](command.md)
 
 ### Disclaimer
 
