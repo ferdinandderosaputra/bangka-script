@@ -69,3 +69,5 @@ Untuk Anda Yang Penasaran Dengan List List Command Bangka-Script Dan Ingin Lebih
 ### Disclaimer
 
 Project Ini Adalah Project Pembelajaran Saya Di Mana Saya Berusaha Belajar Membuat Languange Seperti Jaksel Dan Project Ini Juga Project HaveFun Dan Untuk Mengisi Waktu Luang Saya Anda Juga Di Perbolehkan Untuk Mengedit Karena Ini Juga Open Source
+
+##ini juga belum sepenuhnya menggunakan bahasa bangka di sini masih banyak menggunakan bahasa Indonesia 
